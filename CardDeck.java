@@ -5,7 +5,6 @@ import java.util.Collections;
 
 /**
  * This class represents a card deck.
- * @author Itay Paz Slavin
  * @version 13/3/2020
  */
 public class CardDeck 
