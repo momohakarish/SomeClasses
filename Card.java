@@ -1,5 +1,9 @@
 package learning;
 
+/**
+ * This class represents a card deck.
+ * @version 13/3/2020
+ */
 
 public class Card 
 {
