@@ -1,10 +1,5 @@
 package learning;
 
-/**
- * This class represents a card.
- * @author Itay Slavin.
- * @version 28/12/2019
- */
 
 public class Card 
 {
