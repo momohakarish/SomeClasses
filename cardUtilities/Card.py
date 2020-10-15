@@ -1,9 +1,3 @@
-# This is the class which will represent a playing card for our black jack game
-# Author:           Itay Paz Slavin
-# Date:             17/06/2020
-# Version:          Python 3.18.0
-
-
 class Card:
 
     def __init__(self, value, suit, name):
